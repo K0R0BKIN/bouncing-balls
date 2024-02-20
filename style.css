@@ -11,3 +11,11 @@ body {
   overflow: hidden;
   height: inherit;
 }
+
+p {
+  position: absolute;
+  margin: 0;
+  top: 8px;
+  right: 8px;
+  color: white;
+}
